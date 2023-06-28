@@ -1,7 +1,7 @@
 # Personal_projects
 <b>WELCOME</b> <br>
 Personal_projects --  <br>
-1.Basic Neural Network with diffrent Optimization and regularization with Numpy <br>
+1. Basic Neural Network with diffrent Optimization and regularization with Numpy for **Mnist Digit Recognition**<br>
 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong><span style='font-size:27px;font-family:"Times New Roman",serif;'>Language &amp; Libraries &ndash;</span></strong></p>
 <ul style="list-style-type: disc;">
     <li><span style='font-family:"Times New Roman",serif;font-size:16px;'>Python &ndash;</span>
