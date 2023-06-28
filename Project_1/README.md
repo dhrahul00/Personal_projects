@@ -16,7 +16,7 @@
 <li>Add layers one by one (not recommended the path function).</li>
 <li>Use fit to train the data using hyper-parameters &ndash;
 <ul>
-<li>Learning rate &ndash; (float)</li>
+<li>Learning rate &ndash; (float).</li>
 <li>Epoch &ndash; (integer).</li>
 <li>Batch_size &ndash;(integer).</li>
 <li>Optimizer &ndash; &ldquo;NAG&rdquo;, &ldquo;ADAGRAD&rdquo;, &ldquo;RMSprop&rdquo;, &ldquo;ADAM&rdquo; (string).</li>
