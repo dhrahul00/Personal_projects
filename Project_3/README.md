@@ -10,6 +10,8 @@
 <li>Python</li>
 <li>PyTorch and Sklearn</li>
 <li>Matplotlib</li>
+<li>Opencv</li>
+<li>Numpy & Pandas</li>
 </ul>
 </li>
 <li><strong>Data &ndash; </strong>
