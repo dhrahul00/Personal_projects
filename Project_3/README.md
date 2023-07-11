@@ -15,7 +15,7 @@
 <li><strong>Data &ndash; </strong>
 <ul>
 <li>2000 captcha images - input</li>
-<li>2000 labels in a text file &ndash; target</li>
+<li>2000 labels in a csv file &ndash; target</li>
 </ul>
 </li>
 <li><strong>Train &amp; Test split &ndash;</strong>
