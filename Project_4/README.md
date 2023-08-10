@@ -84,7 +84,7 @@
 <li><strong>Miss labeled :</strong><br />
 <ul>
 <ul>
-<li>In training data -</li>
+<li>In test data -</li>
 </ul>
 </ul>
 <a href="https://imgbox.com/VZLGfJkF" target="_blank"><img src="https://thumbs2.imgbox.com/9c/ee/VZLGfJkF_t.png" alt="image host" /></a></li>
