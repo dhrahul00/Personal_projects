@@ -26,9 +26,13 @@
 </li>
 </ul>
 </li>
-</ul>
-<p><strong>References -&nbsp;</strong></p>
+<li><strong>Performance &ndash;</strong></li>
 <ul>
-<li><strong><a href="https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data/download?datasetVersionNumber=2">https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data/download?datasetVersionNumber=2</a></strong></li>
-<li><strong><a href="https://www.researchgate.net/publication/354403038_Bangalore_House_Price_Prediction">https://www.researchgate.net/publication/354403038_Bangalore_House_Price_Prediction</a></strong></li>
+<li>Highest 86% accuracy is achieved with Ridge regression.</li>
+</ul>
+</ul>
+<p><strong>Reference &ndash;</strong></p>
+<ul>
+<li>https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data/download?datasetVersionNumber=2</li>
+<li>https://www.researchgate.net/publication/354403038_Bangalore_House_Price_Prediction</li>
 </ul>
