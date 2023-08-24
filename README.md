@@ -5,3 +5,4 @@
 <li><strong>Convolution Neural Network by Numpy  </u></strong>&ndash;</li>
 <li><strong>Captcha Classification (ODD or EVEN) by using ResNet18 With `PyTorch`  </u></strong>&ndash;</li>
 <li><strong>Mapping text to relevant emoji with RNN model `PyTorch`  </u></strong>&ndash;</li>
+<li><strong>Prime Video Dashboard </u></strong>&ndash;</li>
