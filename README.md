@@ -7,3 +7,4 @@
 <li><strong>Mapping text to relevant emoji with RNN model `PyTorch`  </u></strong>&ndash;</li>
 <li><strong>Prime Video Dashboard </u></strong>&ndash;</li>
 <li><strong>Bengaluru Housing price predictions</u></strong>&ndash;</li>
+<li><strong>Deep Learning with PyTorch: GradCAM</u></strong>&ndash;</li>
