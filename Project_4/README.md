@@ -1,4 +1,4 @@
-<p><strong>Multi-Class classification with Pytorch :</strong></p>
+<p><strong>Text-to-Emoji RNN Classification using PyTorch </strong></p>
 <p><strong>Description:</strong></p>
 <p>&nbsp;In this project a RNN model is built to analyse text and predict an emoji accordingly.</p>
 <p>A small training set is used to map the classifier text to emojis.</p>
