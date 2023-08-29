@@ -1,6 +1,6 @@
 <p><strong>Personal_project -- </strong></p>
 <ol>
-<li><strong>Basic Neural Network with diffrent Optimization and regularization with Numpy for <u>Mnist Digit Recognition </u></strong>&ndash;</li>
+<li><strong>Built MNIST neural network (NumPy) with diverse optimization & regularizatio</u></strong>&ndash;</li>
 </ol>
 <p><strong>Language &amp; Libraries &ndash;</strong></p>
 <ul>
