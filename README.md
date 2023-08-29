@@ -9,3 +9,4 @@
 <li><strong>Bengaluru Housing price predictions </u></strong>&ndash;</li>
 <li><strong>Deep Learning with PyTorch: GradCAM </u></strong>&ndash;</li>
 <li><strong>Stakeholder Requirements Document </u></strong>&ndash;</li>
+<li><strong>Analyzing sales trends, segments, co-occurrences using Tableau & SQL </u></strong>&ndash;</li>
