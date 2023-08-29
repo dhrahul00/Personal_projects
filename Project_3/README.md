@@ -1,4 +1,4 @@
-<p><strong>Binary classification Problem:</strong></p>
+<p><strong>Hexadecimal Image Captcha classification using CNN  </strong></p>
 <ul>
 <li><strong>Model &ndash; </strong>
 <ul>
